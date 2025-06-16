@@ -1,0 +1,33 @@
+# Arquivos de compilação
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+*.dll
+
+# Executável gerado
+sudoku_dlx
+
+# Diretórios de build
+build/
+bin/
+dist/
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+*.swp
+*~
+
+# Arquivos de IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
